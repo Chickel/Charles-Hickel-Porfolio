@@ -17,5 +17,6 @@ I also have worked with graphic design,3D modeling, and game design. I a efficen
 - adobe indesign
 
 - links -
+  
   linkden - https://www.linkedin.com/in/charles-hickel-202511300/
-  My school's github account - 
+  My school's github account - https://github.com/Chickel
